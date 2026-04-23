@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a4acc9a1-5c8b-486d-8a17-0e8f253c898d",
+  "export_job_id": "0b543ce2-dfaf-4625-9bd4-0cb154a608e5",
   "id_short": 630245,
-  "published_at": "2026-04-18T19:33:43Z",
+  "published_at": "2026-04-23T07:20:33Z",
   "repo_name": "the-hhi-monopoly-index-for-el-paso-texas-us-sample-630245",
   "sample_asset_name": "beamstation_630245_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/630245/beamstation_630245_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_records": 3,
-  "sample_sha256": "eee6c87eac65ff2de56ae72e03eb7bc565e5913ed50a1886c15f84c660eee968",
-  "sample_size_bytes": 27328,
-  "total_records": 39
+  "sample_sha256": "2be138cefd124fba591e73705a99befa29fdf4408d146a7bc5823d8966aa2ddd",
+  "sample_size_bytes": 26762,
+  "total_records": 36
 }
