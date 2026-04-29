@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for El Paso, Texas, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `630245` |
 | Location | El Paso |
 | Category | Restaurants |
-| Full dataset size | 36 records |
-| Free sample size | 3 records (8.33%) |
-| Last export | 2026-04-22T14:42:33.761714+00:00 |
+| Full dataset size | 41 records |
+| Free sample size | 4 records (9.76%) |
+| Last export | 2026-04-29T03:49:44.428590+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-el-paso-texas-us-sample-630245/releases/download/sample-latest/beamstation_630245_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
